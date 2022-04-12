@@ -1,0 +1,22 @@
+<var_name>
+
+    <key>
+        <inside_key>
+            <data>
+        <inside_key>
+    <key/>
+//////KEY NOTE use dot notation like javascript objects
+            ex: key.inside_key = data
+<var_name/>
+
+<header>
+
+    <stuff here>
+
+<header/>
+
+<body>
+
+    <info here>
+
+<body/>

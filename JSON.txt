@@ -1,0 +1,4 @@
+JSON 
+
+{"user": "username", "password": "password"}
+{"theme": "darkmode", "sensitivity":"99"}
